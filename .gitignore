@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+sustainability_esg.db
+*.sqlite
+*.sqlite3
+.DS_Store
+.streamlit/secrets.toml
+.streamlit/

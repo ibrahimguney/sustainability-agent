@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+openpyxl
+pymupdf
+openai
+psycopg2-binary
+bcrypt
